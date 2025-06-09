@@ -89,6 +89,7 @@ src/agisdk/REAL/browsergym/webclones/tasks/gomail-5.json
 src/agisdk/REAL/browsergym/webclones/tasks/gomail-6.json
 src/agisdk/REAL/browsergym/webclones/tasks/gomail-7.json
 src/agisdk/REAL/browsergym/webclones/tasks/gomail-8.json
+src/agisdk/REAL/browsergym/webclones/tasks/gomail-9.json
 src/agisdk/REAL/browsergym/webclones/tasks/networkin-1.json
 src/agisdk/REAL/browsergym/webclones/tasks/networkin-10.json
 src/agisdk/REAL/browsergym/webclones/tasks/networkin-2.json
